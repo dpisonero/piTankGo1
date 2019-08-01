@@ -1,0 +1,4 @@
+19:08:16 **** Clean-only build of configuration Debug for project piTankGo1 ****
+make clean 
+rm -rf  ./fsm.o ./kbhit.o ./piTankGo1_1.o ./player.o ./tmr.o ./torreta.o  ./fsm.d ./kbhit.d ./piTankGo1_1.d ./player.d ./tmr.d ./torreta.d  piTankGo1
+' '
